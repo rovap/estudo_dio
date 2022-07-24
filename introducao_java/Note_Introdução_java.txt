@@ -1,0 +1,9 @@
+// BOOTCAMP DIO
+// Anotações do aluno a título de estudos introdução a linguagem Java
+
+IMPORTANTE:
+- Linguagem Orientada a Objeto
+- Linguagem Interpretada (Após escrever na IDE o programa.java, o compilador vai pegar e transformar o mesmo em um arquivo bytecode com extensão .class a máquina virtual Java (JVM)
+interpreta o .class em linguagem de máquina 
+o SO irá conseguir ler as instruções a serem realizadas.
+- IDE's são apenas ferramentas de escrita; não se apegue.
