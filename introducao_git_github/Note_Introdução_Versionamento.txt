@@ -1,0 +1,29 @@
+// BOOTCAMP DIO
+// Anotações do aluno a título de estudos das ferramentas de Versionamento de código
+
+IMPORTANTE:
+- Git - Sistema Controle de Versionamento de código distribuido. Programa CLI usado através de terminale linhas de comando.
+  . SHA01 (Secure Hash Algorithm)
+  . Objetos Fundamentais
+  . Segurança
+  . Sistema distribuido
+- Github - Servidor público para Controle dos Reposítorios e suas colaborações. Interface Gráfica amigável ao user (GUI)
+
+- COMANDOS SO TERMINAL MAIS USADOS
+	- <crtl> ls (limpa tela)
+	- ls (lista informações do dir local)
+	- ls -a (lista inclusive arquivos ocultos)
+	- cd .. (volta nível do diretório para anterior)
+	- <tab> autocompletar
+	- echo (espelha ação)
+	- mkdir (cria pasta)
+	- rmdir (deleta diretório -rm -rf)
+
+
+- Comandos git ensinados
+	- git init
+	- git add
+	- git commit
+	- git clone
+	- git push
+	- git pull
